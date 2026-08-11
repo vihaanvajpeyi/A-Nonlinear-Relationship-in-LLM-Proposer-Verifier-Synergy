@@ -50,7 +50,7 @@ Two implications the paper draws out:
 All 15 models were run locally via [Ollama](https://ollama.com) at Q4_K_M quantization, temperature 0, fixed seed:
 
 | Model | Size |
-|---|---|
+| --- | --- |
 | Qwen2.5 | 0.5B |
 | Qwen2.5 | 7B |
 | TinyLlama | 1.1B |
