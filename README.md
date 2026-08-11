@@ -4,7 +4,7 @@ Code, data, and analysis for the paper *"A Nonlinear Relationship in LLM Propose
 
 ---
 
-## What this project is about
+## Abstract
 
 Proposer-verifier pipelines, where one language model answers a question and a second model reviews that answer before it's accepted, are increasingly common in LLM systems: rejection sampling, self-refinement, and agentic workflows all lean on this pattern. The implicit assumption is that a stronger model makes a better reviewer.
 
